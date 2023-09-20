@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/NashaMukti-DB/static/css/main.a82de463.css",
+    "main.js": "/NashaMukti-DB/static/js/main.84d82c74.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/NashaMukti-DB/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/team-2-800x800.jpg": "/NashaMukti-DB/static/media/team-2-800x800.3e08ef145920c93bbe32.jpg",
+    "static/media/img-1-1200x1000.jpg": "/NashaMukti-DB/static/media/img-1-1200x1000.df1442cf520034feb3b0.jpg",
+    "static/media/img-2-1200x1000.jpg": "/NashaMukti-DB/static/media/img-2-1200x1000.78ce5ecad91906896cd1.jpg",
+    "static/media/team-3-800x800.jpg": "/NashaMukti-DB/static/media/team-3-800x800.70911cddbb86ea83b652.jpg",
+    "static/media/team-1-800x800.jpg": "/NashaMukti-DB/static/media/team-1-800x800.fa5a7ac2c81a43925586.jpg",
+    "static/media/fontawesome-webfont.eot": "/NashaMukti-DB/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/NashaMukti-DB/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/landing.jpg": "/NashaMukti-DB/static/media/landing.28708456bae02e331aac.jpg",
+    "static/media/nucleo-icons.svg": "/NashaMukti-DB/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/team-4-800x800.jpg": "/NashaMukti-DB/static/media/team-4-800x800.99c612eb60728a5aeeb0.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/NashaMukti-DB/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/ill-2.svg": "/NashaMukti-DB/static/media/ill-2.b82bc41ca8f27286779053cc2a544e93.svg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/NashaMukti-DB/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/775954.png": "/NashaMukti-DB/static/media/775954.aa6ae1dc679fd6552bcf.png",
+    "static/media/775954_newliferehabanddeaddictioncentre1566246932-removebg-preview.png": "/NashaMukti-DB/static/media/775954_newliferehabanddeaddictioncentre1566246932-removebg-preview.aa6ae1dc679fd6552bcf.png",
+    "static/media/argon-react.png": "/NashaMukti-DB/static/media/argon-react.128d71d316a8e92aff4a.png",
+    "static/media/profile.jpg": "/NashaMukti-DB/static/media/profile.5299886854197a158be8.jpg",
+    "static/media/nucleo-icons.eot": "/NashaMukti-DB/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/NashaMukti-DB/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/promo-1.png": "/NashaMukti-DB/static/media/promo-1.45ab229198250e9b0863.png",
+    "static/media/nucleo-icons.woff": "/NashaMukti-DB/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/nucleo-icons.woff2": "/NashaMukti-DB/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "static/media/google.svg": "/NashaMukti-DB/static/media/google.eae9aa9354350126d1b032847835a051.svg",
+    "static/media/github.svg": "/NashaMukti-DB/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
+    "index.html": "/NashaMukti-DB/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a82de463.css",
+    "static/js/main.84d82c74.js"
+  ]
+}
