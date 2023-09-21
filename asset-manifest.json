@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NashaMukti-DB/static/css/main.a82de463.css",
-    "main.js": "/NashaMukti-DB/static/js/main.84d82c74.js",
+    "main.js": "/NashaMukti-DB/static/js/main.c706140f.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/NashaMukti-DB/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/team-2-800x800.jpg": "/NashaMukti-DB/static/media/team-2-800x800.3e08ef145920c93bbe32.jpg",
     "static/media/img-1-1200x1000.jpg": "/NashaMukti-DB/static/media/img-1-1200x1000.df1442cf520034feb3b0.jpg",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.a82de463.css",
-    "static/js/main.84d82c74.js"
+    "static/js/main.c706140f.js"
   ]
 }
