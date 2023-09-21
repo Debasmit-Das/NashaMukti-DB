@@ -34,11 +34,11 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" exact element={<Index />} />
-      <Route path="/landing-page" exact element={<Landing />} />
-      <Route path="/login-page" exact element={<Login />} />
-      <Route path="/profile-page" exact element={<Profile />} />
-      <Route path="/register-page" exact element={<Register />} />
+      <Route path={process.env.PUBLIC_URL + '/'} exact element={<Index />} />
+      <Route path={process.env.PUBLIC_URL + '/landing-page'}  exact element={<Landing />} />
+      <Route path={process.env.PUBLIC_URL + "/login-page"}  exact element={<Login />} />
+      <Route path={process.env.PUBLIC_URL + "/profile-page"}  exact element={<Profile />} />
+      <Route path={process.env.PUBLIC_URL + "/register-page" } exact element={<Register />} />
       <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
   </BrowserRouter>
