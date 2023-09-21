@@ -39,7 +39,7 @@ root.render(
       <Route path={process.env.PUBLIC_URL + "/login-page"}  exact element={<Login />} />
       <Route path={process.env.PUBLIC_URL + "/profile-page"}  exact element={<Profile />} />
       <Route path={process.env.PUBLIC_URL + "/register-page" } exact element={<Register />} />
-      <Route path="*" element={<Navigate to="/" replace />} />
+      <Route path="*" element={<Navigate to={process.env.PUBLIC_URL + '/'} replace />} />
     </Routes>
   </BrowserRouter>
 );

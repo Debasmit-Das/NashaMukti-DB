@@ -74,7 +74,7 @@ class Profile extends React.Component {
                           <img
                             alt="..."
                             className="rounded-circle"
-                            src={require("assets/img/theme/jethalal.jpg")}
+                            src={require("assets/img/theme/doctor.jpg")}
                           />
                         </a>
                       </div>
@@ -123,20 +123,20 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jetha Jong Un{" "}
+                      Doctor Saluke{" "}
                       <span className="font-weight-light">, 55</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Gokuldham, North Korea
+                      Gokuldham, India
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Cheif Execution Officer - urf Punisher
+                      Cheif Psycologist - Behavioral Expert
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      University of Medical Science
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
